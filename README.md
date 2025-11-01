@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=212121&text=Fronted%20Developer&fontColor=ffffff&fontAlign=50&fontAlignY=41&fontSize=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=212121&text=Fronted%20Developer&fontColor=ffffff&fontAlign=50&fontAlignY=41&fontSize=45"/>
 </p>
 
 ## 🎨 Frontend Developer | UI/UX Enthusiast | From Uzbekistan 🇺🇿
