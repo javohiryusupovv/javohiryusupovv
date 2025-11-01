@@ -25,14 +25,10 @@ Currently in **BUILD MODE** 🧱 — designing, shipping, and improving every si
 
 ### 🧩 Tools & Systems
 
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-18181B?style=flat)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![NextAuth](https://img.shields.io/badge/NextAuth.js-000?style=flat&logo=auth0&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
+<img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
+<img alt="gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
+<img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 
 ---
 
@@ -47,10 +43,11 @@ Currently in **BUILD MODE** 🧱 — designing, shipping, and improving every si
 | 🎓 **LMS Platform** | Learning Management System for education centers |
 | 💰 **CoinX** | Reward-based student tracking system |
 | 🏢 **ERP Dashboard** | Inventory & management system for warehouses |
-| 📰 **Shifo24 Landing** | Medical service website with multi-language support |
-| 📚 **IELTS Mock System** | Online IELTS test and result platform |
+| 📰 **Clamo ** | Medical service website with multi-language support |
+| ⚖️ **Sher Legal** | Legal services and consultation platform for law firms |
+| 🏢 **UiC Group Clone** | Corporate website clone built with Next.js and TailwindCSS for a business solutions company |
+| 🌍 **Uzbekistan’s Club Clone** | Community platform clone showcasing global Uzbek professionals and entrepreneurs |
 
-...and many more internal or private projects 🚀
 
 ---
 
@@ -60,9 +57,9 @@ Currently in **BUILD MODE** 🧱 — designing, shipping, and improving every si
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javohir-yusupov&layout=compact&theme=radical&hide_title=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javohir-yusupov&show_icons=true&theme=radical&border_radius=10&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javohiryusupovv&show_icons=true&theme=radical&border_radius=10&hide_title=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=javohir-yusupov&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=javohiryusupovv&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
@@ -79,10 +76,10 @@ Currently in **BUILD MODE** 🧱 — designing, shipping, and improving every si
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/javohir-yusupov)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/javohir_yusupov)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:javohiryusupov.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://javohir.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/javohiryusupov)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Javoxir_iq)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yusupovjavoxir11@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://javohir-yusupov.uz)
 
 ---
 
