@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=333&text=Hello!&reversal=false&fontColor=ffff&textBg=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=212121&text=Fronted%20Developer&fontColor=ffffff&fontAlign=50&fontAlignY=41&fontSize=50"/>
 </p>
 
 ## 🎨 Frontend Developer | UI/UX Enthusiast | From Uzbekistan 🇺🇿
@@ -94,7 +94,3 @@ Currently in **BUILD MODE** 🧱 — designing, shipping, and improving every si
 ---
 
 > 💬 Let’s collaborate on **Next.js**, **AI-powered tools**, or **Frontend systems** that inspire people.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:06B6D4&height=100&section=footer"/>
-</p>
