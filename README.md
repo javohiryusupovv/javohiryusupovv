@@ -53,7 +53,7 @@ Currently in **BUILD MODE** 🧱 — designing, shipping, and improving every si
 | 🎓 **LMS Platform** | Learning Management System for education centers |
 | 💰 **CoinX** | Reward-based student tracking system |
 | 🏢 **ERP Dashboard** | Inventory & management system for warehouses |
-| 📰 **Clamo ** | Medical service website with multi-language support |
+| 📰 **Clamo** | Medical service website with multi-language support |
 | ⚖️ **Sher Legal** | Legal services and consultation platform for law firms |
 | 🏢 **UiC Group Clone** | Corporate website clone built with Next.js and TailwindCSS for a business solutions company |
 | 🌍 **Uzbekistan’s Club Clone** | Community platform clone showcasing global Uzbek professionals and entrepreneurs |
