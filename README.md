@@ -55,7 +55,7 @@ Currently in **BUILD MODE** 🧱 — designing, shipping, and improving every si
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javohir-yusupov&layout=compact&theme=radical&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javohiryusupovv&layout=compact&theme=radical&hide_title=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javohiryusupovv&show_icons=true&theme=radical&border_radius=10&hide_title=true)
 
